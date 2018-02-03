@@ -1,0 +1,56 @@
+name: RabbitRPG
+main: me.rabbitdegamer.rabbitrpg.RabbitRPGMain
+version: 1.0
+author: RabbitDeGamer
+description: Get a wand!
+ 
+commands:
+  getwand:
+    description: Get a wand!
+    usage: /<command>
+    aliases: [gw]
+    permission: rabbitrpg.getwand
+  getelderwand:
+    description: Get an elder wand!
+    usage: /<command>
+    aliases: [gew]
+    permission: rabbitrpg.getelderwand 
+  getrabbitwand:
+    description: Get a rabbit wand!
+    usage: /<command>
+    aliases: [grw]
+    permission: rabbitrpg.getrabbitwand
+  getarrowrainingrod:
+    description: Get an arrow raining rod!
+    usage: /<command>
+    aliases: [garr]
+    permission: rabbitrpg.getarrowrainingrod
+  awesomecommand:
+    description: Don't do this command!
+    usage: /<command>
+    aliases: [ddtc]
+    permission: rabbitrpg.awesomecommand
+  getassassinskit:
+    description: Get an assassins kit!
+    usage: /<command>
+    aliases: [gak]
+    permission: rabbitrpg.getassassinskit
+  getmagekit:
+    description: Get a mage kit!
+    usage: /<command>
+    aliases: [gmk]
+    permission: rabbitrpg.getmagekit
+  leaveprank:
+    description: Pranks by leaving
+    usage: /<command>
+    aliases: [lp]
+  gethealingwand:
+    description: Get a healing wand!
+    usage: /<command>
+    aliases: [ghw]
+    permission: rabbitrpg.gethealingwand
+    description: Get a healing wand!
+  burninhell:
+    description: Burn in hell!
+    usage: /<command>
+    aliases: [bih]  
